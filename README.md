@@ -12,7 +12,6 @@ I’m a web developer specializing in creating exceptional digital experiences w
 * 🚀  I'm currently working on [Notrious](http://notrious.rushikeshthorat.dev)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Interstring Projects
-* ⚡  I'm secretly superman.... but don't tell anyone
 
 ### Skills
 
