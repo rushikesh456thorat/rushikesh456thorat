@@ -1,4 +1,5 @@
-Hi ![](https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png)My name is Rushikesh Thorat
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />, I'm Rushikesh Thorat</h1>
 ========================================================================================================================================
 
 Full Stack Developer (MERN Stack)
