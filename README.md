@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a web developer specializing in creating exceptional digital experiences with the MERN stack. Proficient in building accessible, human-centered web applications using React, Node.js, Express.js, and MongoDB. Currently focused on delivering high-quality, scalable solutions.<br><br>    🌍  I'm based in Pune, India<br>    🖥️  See my portfolio at ![MyPortfolio](https://rushikeshthorat.dev) <br>    ✉️  You can contact me at rushikeshthorat.me@gmail.com<br>    🚀  I'm currently working on Notrious<br>    🧠  I'm learning Machine Learning<br>    🤝  I'm open to collaborating on Interstring Projects<br>
+I’m a web developer specializing in creating exceptional digital experiences with the MERN stack. Proficient in building accessible, human-centered web applications using React, Node.js, Express.js, and MongoDB. Currently focused on delivering high-quality, scalable solutions.<br><br>    🌍  I'm based in Pune, India<br>    🖥️  See my portfolio at [MyPortfolio](https://rushikeshthorat.dev) <br>    ✉️  You can contact me at rushikeshthorat.me@gmail.com<br>    🚀  I'm currently working on Notrious<br>    🧠  I'm learning Machine Learning<br>    🤝  I'm open to collaborating on Interstring Projects<br>
 
 
 ## 🌐 Socials:
